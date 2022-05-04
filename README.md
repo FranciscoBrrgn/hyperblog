@@ -11,3 +11,4 @@ Un blog increíble para aprender Git y GitHub como todo un profesional👌
 - Como hacer deploy.
 - Prueba de stash, con cherry pick
 - Incluye ejemplos en Windows linux y Mac
+- Disponible pata todas las edades
