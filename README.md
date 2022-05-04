@@ -9,3 +9,4 @@ Un blog increíble para aprender Git y GitHub como todo un profesional👌
 - Como crear branches (ramas) en el repositorio.
 - Como hacer merge de ramas.
 - Como hacer deploy.
+- Prueba de stash, con cherry pick
